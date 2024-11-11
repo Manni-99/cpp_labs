@@ -1,0 +1,9 @@
+/home/manni/LTH/Year3/C++/labs-edaf30/lab1/buggy_programs/build-rel/CMakeFiles/leak.dir
+/home/manni/LTH/Year3/C++/labs-edaf30/lab1/buggy_programs/build-rel/CMakeFiles/bounds.dir
+/home/manni/LTH/Year3/C++/labs-edaf30/lab1/buggy_programs/build-rel/CMakeFiles/bounds-heap.dir
+/home/manni/LTH/Year3/C++/labs-edaf30/lab1/buggy_programs/build-rel/CMakeFiles/ub.dir
+/home/manni/LTH/Year3/C++/labs-edaf30/lab1/buggy_programs/build-rel/CMakeFiles/dangling.dir
+/home/manni/LTH/Year3/C++/labs-edaf30/lab1/buggy_programs/build-rel/CMakeFiles/sum.dir
+/home/manni/LTH/Year3/C++/labs-edaf30/lab1/buggy_programs/build-rel/CMakeFiles/sum_alt.dir
+/home/manni/LTH/Year3/C++/labs-edaf30/lab1/buggy_programs/build-rel/CMakeFiles/edit_cache.dir
+/home/manni/LTH/Year3/C++/labs-edaf30/lab1/buggy_programs/build-rel/CMakeFiles/rebuild_cache.dir
