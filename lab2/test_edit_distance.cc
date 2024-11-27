@@ -4,13 +4,13 @@
  *    int edit_distance(const std::string&, const std::string&);
  * and it is assumed to be declared in edit_distance.h
  */
-#include "edit_distance.h"
+#include "spell_checker.h"
 
 #include <iostream>
 
 bool do_test(const std::string& x, const std::string& y, int expected)
 {
-    auto actual = edit_distance(x, y);
+    auto actual = SpellChecker::edit_distance(x, y);
     if (actual != expected) {
         std::cout << "*** WRONG: distance(" << x << ", " << y << ") was "
                   << actual << ", expected " << expected << '\n';

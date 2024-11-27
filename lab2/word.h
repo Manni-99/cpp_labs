@@ -3,6 +3,9 @@
 
 #include <string>
 #include <vector>
+#include <algorithm> 
+
+using namespace std;
 
 class Word {
 public:
@@ -15,7 +18,11 @@ public:
 	/* Returns how many of the trigrams in t that are present
 	 in this word's trigram vector */
 	unsigned int get_matches(const std::vector<std::string>& t) const;
+	
 private:
+	string word;
+	vector<string> trigrams;
+
 };
 
 #endif
